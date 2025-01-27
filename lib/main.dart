@@ -126,7 +126,7 @@ class LargeScreen extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Text(
-                  'Para mais conteúdo, clique em "ver mais"!',
+                  'Aqui está um espaço extra para conteúdo!',
                   style: TextStyle(fontSize: 18),
                   textAlign: TextAlign.center,
                 ),
